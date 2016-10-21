@@ -8,4 +8,8 @@
  
  
  // п****да
-echo "У самки долгоносика бритая п****да"; // fixed space typo
+<form name="form">
+	<input type="submit" value="Выполнить" />
+</form>
+
+// Чиф Няша :3 ^^
