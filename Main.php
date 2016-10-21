@@ -7,7 +7,7 @@
  */
  
  
- // п****да
+ // п****да 8===D
 <form name="form">
 	<input type="submit" value="Выполнить" />
 </form>
